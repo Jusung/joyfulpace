@@ -49,7 +49,7 @@ jekyll-archives:
 
 # Pagination
 paginate: 6
-paginate_path: 'https://jusung.github.io/tommy/page:num/'
+paginate_path: /page:num/
 
 # Other
 markdown: kramdown
