@@ -1,7 +1,7 @@
 # Site
 name: "토미's 믿음의 발걸음"
 title: "삶, 생각, 경험"
-description: "토미 이야기 - 삶, 생각, 경험"
+description: "삶, 생각, 경험"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/tommy'
@@ -13,23 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  tommy:
     name: Tommy
     display_name: Tommy
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: kyejusung@gmail.com
-    web: https://jusung
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: kyejusung@gmail.com
-    web: https://jusung.github.io/tommy/
+    web: https://jusung.github.io
     twitter: https://twitter.com/kyejusung
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "I am who I am."
 
 # Plugins
 plugins:
