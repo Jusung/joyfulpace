@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: '/tommy'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: ''
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -16,7 +16,7 @@ authors:
   Tommy:
     name: Tommy
     display_name: Tommy
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: ee500ba50925d4788cee2e8412d968df  #email-hash
     email: kyejusung@gmail.com
     web: https://jusung.github.io
     twitter: https://twitter.com/kyejusung
