@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   Tommy:
     name: Tommy
-    display_name: Tommy
+    display_name: 토미
     gravatar: ee500ba50925d4788cee2e8412d968df  #email-hash
     email: kyejusung@gmail.com
     web: https://jusung.github.io
