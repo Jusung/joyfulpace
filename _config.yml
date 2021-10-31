@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 토미의 개발노트
+name: 토미의 믿음의 발걸음
 
 # Short bio or description (displayed in the header)
-description: iOS 개발관련 지식을 공유합니다.
+description: 인도하심 따라 사는 삶
 
 #
 # Flags below are optional
@@ -14,7 +14,7 @@ description: iOS 개발관련 지식을 공유합니다.
 timezone: "Asia/Seoul"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://jusung.github.io/images/profile.png
+avatar: https://jusung.github.io/joyfulpace/images/profile face.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -22,8 +22,8 @@ avatar: https://jusung.github.io/images/profile.png
 navigation:
   - name: About
     url: /about
-  - name: The Swift Language Guide (한국어)
-    url: https://jusung.gitbook.io/the-swift-language-guide
+  # - name: The Swift Language Guide (한국어)
+  #   url: https://jusung.gitbook.io/the-swift-language-guide
   - name: Archive
     url: /archive
   - name: Categories
@@ -31,7 +31,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: RSS Feed
-    url: https://jusung.github.io/feed.xml
+    url: https://jusung.github.io/joyfulpace/feed.xml
 
 # Pagination
 paginate: 5
@@ -55,18 +55,18 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2021 토미😎의 개발노트
+footer-text: © 2021 토미의 믿음의 발검음
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: jusung-github-io
+# disqus: jusung-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-114674346-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://jusung.github.io
+url: https://jusung.github.io/joyfulpace
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
