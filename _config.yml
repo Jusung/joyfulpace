@@ -22,8 +22,6 @@ avatar: https://jusung.github.io/joyfulpace/images/profile face.png
 navigation:
   - name: About
     url: /about
-  # - name: The Swift Language Guide (한국어)
-  #   url: https://jusung.gitbook.io/the-swift-language-guide
   - name: Archive
     url: /archive
   - name: Categories
