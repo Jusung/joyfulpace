@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>http://localhost:4000/AutoClosure/</loc>
+      
+        <lastmod>2021-02-07T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Escaping-Closure/</loc>
+      
+        <lastmod>2021-01-31T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Swift-Code-Convention/</loc>
+      
+        <lastmod>2021-01-24T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Static-and-Dynamic-Typed-Language/</loc>
+      
+        <lastmod>2021-01-17T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Json-Decoding-3ways/</loc>
+      
+        <lastmod>2021-01-10T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/WhatsNewInRxSwift6/</loc>
+      
+        <lastmod>2021-01-04T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Xcode12-Build-Error/</loc>
+      
+        <lastmod>2020-10-07T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/scan/</loc>
+      
+        <lastmod>2020-04-06T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Int-Enum-String-Case/</loc>
+      
+        <lastmod>2020-04-04T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/shareReplay/</loc>
+      
+        <lastmod>2020-03-30T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Compare-enum-with-associated-value/</loc>
+      
+        <lastmod>2020-03-29T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/apns-test/</loc>
+      
+        <lastmod>2020-02-11T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/RxSwift-Section12/</loc>
+      
+        <lastmod>2020-01-29T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/zip/</loc>
+      
+        <lastmod>2020-01-14T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Currying/</loc>
+      
+        <lastmod>2020-01-07T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/classOnlyProtocol/</loc>
+      
+        <lastmod>2019-12-31T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/withLatestFrom/</loc>
+      
+        <lastmod>2019-12-24T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Subscribe/</loc>
+      
+        <lastmod>2019-12-16T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Take/</loc>
+      
+        <lastmod>2019-12-10T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/%E1%84%89%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE(Pure-Function)%E1%84%85%E1%85%A1%E1%86%AB/</loc>
+      
+        <lastmod>2019-12-03T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Swift-5.1%E1%84%8B%E1%85%B4-%E1%84%8B%E1%85%B2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA-2%E1%84%80%E1%85%A1%E1%84%8C%E1%85%B5/</loc>
+      
+        <lastmod>2019-10-23T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Result-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8/</loc>
+      
+        <lastmod>2019-03-11T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/String-%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%A5-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/</loc>
+      
+        <lastmod>2019-03-04T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/RawString/</loc>
+      
+        <lastmod>2019-03-04T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/ABI-Stability/</loc>
+      
+        <lastmod>2019-02-25T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/allSatisfy()/</loc>
+      
+        <lastmod>2018-11-09T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Bool-%E1%84%80%E1%85%A1%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB-toggle()/</loc>
+      
+        <lastmod>2018-10-12T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Reduce-%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE-%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A2-%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5/</loc>
+      
+        <lastmod>2018-10-05T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Filter-%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE-%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A2-%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5/</loc>
+      
+        <lastmod>2018-09-28T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson4(Counting-Elements)-PermCheck/</loc>
+      
+        <lastmod>2018-09-26T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson4(Counting-Elements)-MissingInteger/</loc>
+      
+        <lastmod>2018-09-26T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson4(Counting-Elements)-MaxCounters/</loc>
+      
+        <lastmod>2018-09-26T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson4(Counting-Elements)-FrogRiverOne/</loc>
+      
+        <lastmod>2018-09-26T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A5-%E1%84%8C%E1%85%B5%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1-warning,-error/</loc>
+      
+        <lastmod>2018-09-21T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Map-%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE-%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A2-%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5/</loc>
+      
+        <lastmod>2018-09-14T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson3(Time-Complexity)-TapeEquilibrium/</loc>
+      
+        <lastmod>2018-09-14T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson3(Time-Complexity)-PermMissingElem/</loc>
+      
+        <lastmod>2018-09-14T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson3(Time-Complexity)-FrogJmp/</loc>
+      
+        <lastmod>2018-09-14T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson2(Arrays)-OddOccurrencesInArray/</loc>
+      
+        <lastmod>2018-09-05T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson2(Arrays)-CyclicRotation/</loc>
+      
+        <lastmod>2018-09-05T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Codility-Lesson1(Iterations)-BinaryGap/</loc>
+      
+        <lastmod>2018-09-05T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Swift-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%87%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A2%E1%86%BB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/</loc>
+      
+        <lastmod>2018-08-21T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Swift-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5-%E1%84%87%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8-%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5/</loc>
+      
+        <lastmod>2018-08-21T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Xcode%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%86%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB(Wireless)-%E1%84%87%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/</loc>
+      
+        <lastmod>2018-02-25T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/Swift%E1%84%80%E1%85%A1-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%83%E1%85%AC%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/</loc>
+      
+        <lastmod>2015-12-05T00:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+</urlset>
