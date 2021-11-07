@@ -57,7 +57,7 @@ footer-text: © 2021 토미의 믿음의 발검음
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-# disqus: jusung-github-io
+disqus: jusung-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-114674346-1
