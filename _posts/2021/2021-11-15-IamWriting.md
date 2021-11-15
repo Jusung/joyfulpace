@@ -3,6 +3,8 @@ layout: post
 title: "[근황] Git 책을 쓰고 있어요."
 category:
   - 신앙과 삶
+tag:
+  - 근황
 comments: true
 published: true
 ---
