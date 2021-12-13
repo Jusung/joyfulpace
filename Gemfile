@@ -7,3 +7,7 @@ source "https://rubygems.org"
 gem "github-pages", "~> 203", group: :jekyll_plugins
 
 # gem "rails"
+
+gem "jekyll", "~> 3.9"
+gem "webrick", "~> 1.7"
+gem "kramdown-parser-gfm"
