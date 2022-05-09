@@ -36,31 +36,24 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
-  dribbble:
   email:
-  facebook:
-  flickr:
   github:
-  googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
-  pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
   twitter: kyejusung
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2021 토미의 믿음의 발검음
+footer-text: © 2022 토미의 믿음의 발검음
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: jusung-github-io
+# disqus: jusung-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-114674346-1
+google_analytics: G-8C21TS5CET
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
