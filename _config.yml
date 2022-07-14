@@ -106,4 +106,4 @@ exclude:
 
 theme: jekyll-theme-cayman
 
-future: false
+future: true
